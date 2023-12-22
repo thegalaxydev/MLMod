@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{90CF749C-4B2E-DB6C-80C4-8DBCBFFD4510}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MLMod",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
